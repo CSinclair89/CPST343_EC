@@ -1,0 +1,1 @@
+C:\Users\Chris\Desktop\cpst343\CoreQuiz\CoreQuiz.csproj;x64
